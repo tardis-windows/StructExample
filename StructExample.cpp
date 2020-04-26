@@ -15,12 +15,7 @@ int main()
     bool boo; 
     
     cout << "Print to screen" << endl; 
-    cour << "next line" << endl; 
-
-    // convert base, binary to decimal, octal, hexadecimal 
-
-    // control 
-    // if, if-else if-else-if, switch statement 
+    cout << "next line" << endl; // fixed error
 
     if (x == 1)
     {
@@ -39,7 +34,5 @@ int main()
         cout << i << endl; 
     }
 
-
-    
     return 0;
 }
